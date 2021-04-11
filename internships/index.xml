@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internships on Homepage</title>
+    <link>https://codingtphil98.github.io/Tommy_Portfolio/internships/</link>
+    <description>Recent content in Internships on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://codingtphil98.github.io/Tommy_Portfolio/internships/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jane Street</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/internships/jane_street/</link>
+      <pubDate>Sat, 10 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/internships/jane_street/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plug and Play Tech Centre</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/internships/plug_and_play/</link>
+      <pubDate>Sat, 10 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/internships/plug_and_play/</guid>
+      <description>What I did
+      </description>
+    </item>
+    
+  </channel>
+</rss>

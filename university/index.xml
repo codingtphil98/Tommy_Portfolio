@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University on Homepage</title>
+    <link>https://codingtphil98.github.io/Tommy_Portfolio/university/</link>
+    <description>Recent content in University on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://codingtphil98.github.io/Tommy_Portfolio/university/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MSc Artificial Intelligence</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/university/imperial/</link>
+      <pubDate>Sat, 10 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/university/imperial/</guid>
+      <description>Core modules:
+ Ethics, Privacy, AI in Society Introduction to Machine Learning Introduction to Symbolic Artificial Intelligence MSc Software Engineering Practice and Group Project Python Programming Individual Project  Optional modules:
+ Computational Finance Computer Vision Databases Deep Learning Machine Learning for Imaging Maths for Machine Learning Principles of Distributed Ledgers  </description>
+    </item>
+    
+    <item>
+      <title>BSc Mathematics, Operational Research, Statistics and Economics</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/university/warwick/</link>
+      <pubDate>Sat, 10 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/university/warwick/</guid>
+      <description>Took modules in:
+      Received the Department of Statistics Academic Excellence Award 2019 for overall performance 3rd out of 250 students. Amongst high grades across the board, I ranked 1st out of 537 students in Warwick Business School&amp;rsquo;s Foundations of Finance.</description>
+    </item>
+    
+    <item>
+      <title>Chinese Language Institute</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/university/cli/</link>
+      <pubDate>Tue, 10 Jan 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/university/cli/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

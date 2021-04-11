@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel on Homepage</title>
+    <link>https://codingtphil98.github.io/Tommy_Portfolio/travel/</link>
+    <description>Recent content in Travel on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://codingtphil98.github.io/Tommy_Portfolio/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australia</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/travel/australia/</link>
+      <pubDate>Sat, 10 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/travel/australia/</guid>
+      <description>Travel itinerary</description>
+    </item>
+    
+    <item>
+      <title>China</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/travel/china/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/travel/china/</guid>
+      <description>Places visited:</description>
+    </item>
+    
+  </channel>
+</rss>

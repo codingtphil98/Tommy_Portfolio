@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hobbies on Homepage</title>
+    <link>https://codingtphil98.github.io/Tommy_Portfolio/hobbies/</link>
+    <description>Recent content in Hobbies on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2015 12:00:00 -0500</lastBuildDate><atom:link href="https://codingtphil98.github.io/Tommy_Portfolio/hobbies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Golf</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/hobbies/golf/</link>
+      <pubDate>Fri, 10 Apr 2015 11:00:59 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/hobbies/golf/</guid>
+      <description>8 handicap golfer</description>
+    </item>
+    
+    <item>
+      <title>Piano</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/hobbies/piano/</link>
+      <pubDate>Fri, 10 Apr 2015 11:00:59 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/hobbies/piano/</guid>
+      <description>Classical music such as:
+* * *</description>
+    </item>
+    
+    <item>
+      <title>Rugby</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/hobbies/rugby/</link>
+      <pubDate>Fri, 10 Apr 2015 11:00:59 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/hobbies/rugby/</guid>
+      <description>Bath and England rugby fan.</description>
+    </item>
+    
+    <item>
+      <title>Cricket</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/hobbies/cricket/</link>
+      <pubDate>Fri, 10 Apr 2015 10:58:08 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/hobbies/cricket/</guid>
+      <description>Age group county cricketer</description>
+    </item>
+    
+  </channel>
+</rss>

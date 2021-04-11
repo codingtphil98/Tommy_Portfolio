@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My Blog</title>
+    <title>Tags on Homepage</title>
     <link>https://codingtphil98.github.io/Tommy_Portfolio/tags/</link>
-    <description>Recent content in Tags on My Blog</description>
+    <description>Recent content in Tags on Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Mar 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://codingtphil98.github.io/Tommy_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -17,11 +17,11 @@
     </item>
     
     <item>
-      <title>scene</title>
-      <link>https://codingtphil98.github.io/Tommy_Portfolio/tags/scene/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      <title>Python</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/tags/python/</link>
+      <pubDate>Fri, 10 Jul 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://codingtphil98.github.io/Tommy_Portfolio/tags/scene/</guid>
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/tags/python/</guid>
       <description></description>
     </item>
     
