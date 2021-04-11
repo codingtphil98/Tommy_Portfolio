@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>项目 on 我的博客</title>
+    <title>项目 on 主页</title>
     <link>https://codingtphil98.github.io/Tommy_Portfolio/cn/post/</link>
-    <description>Recent content in 项目 on 我的博客</description>
+    <description>Recent content in 项目 on 主页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://codingtphil98.github.io/Tommy_Portfolio/cn/post/index.xml" rel="self" type="application/rss+xml" />

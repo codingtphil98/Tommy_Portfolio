@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Homepage</title>
+    <link>https://codingtphil98.github.io/Tommy_Portfolio/courses/</link>
+    <description>Recent content in Courses on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://codingtphil98.github.io/Tommy_Portfolio/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning by Stanford University</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/courses/course_2/</link>
+      <pubDate>Sat, 10 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/courses/course_2/</guid>
+      <description>Course involved:</description>
+    </item>
+    
+    <item>
+      <title>Python for Data Analysis</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio/courses/course_1/</link>
+      <pubDate>Fri, 10 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio/courses/course_1/</guid>
+      <description>As I worked through this book by Wes McKinney, I strengthened my foundations in Python and went on to work on a number of projects.</description>
+    </item>
+    
+  </channel>
+</rss>
